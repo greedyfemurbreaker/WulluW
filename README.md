@@ -1,6 +1,6 @@
 # WulluW
+!! EYESTRAIN WARNING !!
 this MY art dump DON'T STEAL / SCREENSHOT MY artwork and i won't COLLECT your SOUL
-EYESTRAIN WARNING
 <div align="center">
   <img src="https://file.garden/Zn4VyXfEdAHVeqaq/IMG_1763.gif" width="300">
 </div>
