@@ -22,8 +22,8 @@ philza minecraft
 </div>
 off ( the game )
 <div align="center">
+ 
   <img src="https://file.garden/Zn4VyXfEdAHVeqaq/IMG_2299.png" width="200">
   <img src="https://file.garden/Zn4VyXfEdAHVeqaq/IMG_1646.png" width="200">
   <img src="https://file.garden/Zn4VyXfEdAHVeqaq/IMG_1645.png" width="200">
-  <img src="https://file.garden/Zn4VyXfEdAHVeqaq/IMG_1842.png" width="200">
 </div>
